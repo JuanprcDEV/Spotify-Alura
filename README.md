@@ -22,5 +22,5 @@
 ###
 
 <div align="center">
-  <img src="/src/assets/img/UI.jpg"/>
+  <img src="/src/assets/img/UI.png"/>
 </div>
